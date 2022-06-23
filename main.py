@@ -1948,6 +1948,8 @@ def bot_message(message):
             bot.send_audio(message.chat.id,r'https://t.me/TLUSER_4515/1155?single')
             bot.send_audio(message.chat.id,r'https://t.me/TLUSER_4515/1156?single')
             bot.send_audio(message.chat.id,r'https://t.me/TLUSER_4515/1157?single')
+       else:
+            bot.send_message(message.chat.id,'It is wrong message')
         
 
        
