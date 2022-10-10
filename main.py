@@ -4,7 +4,7 @@ from telebot import types
 from telegram import Location 
 
 
-TOKEN='5161776306:AAEc6XNi9em5PPXMNzcBXfrQX6uFS-5gaCI'
+TOKEN='5680971575:AAGtOava115h9t9Dqndec5LM4Plsjbaydzs'
 
 bot = telebot.TeleBot(TOKEN)
 
