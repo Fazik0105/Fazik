@@ -11,7 +11,7 @@ bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.send_message(message.chat.id,'🍃🍃🍃Hello, in order to use this bot, you have to tell me password!!!🔒🔒🔒')
+    bot.send_message(message.chat.id,'🍃🍃🍃Hello, WELCOME TO RESULT SCHOOL in order to use this bot, you have to tell me password!!!🔒🔒🔒')
 
 faz = 'https://t.me/Fazli_4515'
 
